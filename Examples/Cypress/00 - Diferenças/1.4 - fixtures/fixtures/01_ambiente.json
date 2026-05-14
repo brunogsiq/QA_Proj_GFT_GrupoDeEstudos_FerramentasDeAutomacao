@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "tipo": "dev",
+        "baseUrl": "http://localhost:3000"
+    },
+    "homolog": {
+        "tipo": "homolog",
+        "baseUrl": "http://homologacao.exemplo.com"
+    },
+    "prod": {
+        "tipo": "prod",
+        "baseUrl": "http://www.exemplo.com"
+    }
+}

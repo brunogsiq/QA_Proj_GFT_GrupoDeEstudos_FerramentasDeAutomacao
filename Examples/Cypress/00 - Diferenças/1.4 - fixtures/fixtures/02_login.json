@@ -1,0 +1,17 @@
+{
+    "User1": {
+        "tipo": "cliente",
+        "username": "cliente_teste",
+        "password": "senha_teste"
+    },
+    "User2": {
+        "tipo": "administrador",
+        "username": "admin_teste",
+        "password": "senha_admin"
+    },
+    "User3": {
+        "tipo": "moderador",
+        "username": "mod_teste",
+        "password": "senha_mod"
+    }
+}
