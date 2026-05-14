@@ -1,0 +1,1 @@
+# QA_Proj_GFT_GrupoDeEstudos_FerramentasDeAutomaca
