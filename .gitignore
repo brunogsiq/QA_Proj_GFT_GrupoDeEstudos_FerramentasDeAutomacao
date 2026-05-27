@@ -12,7 +12,7 @@ Project\Cypress\cypress\reports
 Project\Cypress\cypress\screenshots
 Project\Cypress\cypress\videos
 
-node_modules/
+node_modules/**
 reports/
 screenshots/
 videos/

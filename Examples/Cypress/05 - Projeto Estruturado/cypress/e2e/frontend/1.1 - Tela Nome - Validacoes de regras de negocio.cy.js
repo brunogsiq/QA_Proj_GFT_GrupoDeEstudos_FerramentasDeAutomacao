@@ -24,7 +24,7 @@ context('nomeDaTela', () =>
 				cy.clearAllSessionStorage();
 			});
 
-			it(`${++teste}.${complemento} - `, () => 
+			it(`${teste}.${complemento} - `, () => 
 			{
 				//Passo - Dado...
 
