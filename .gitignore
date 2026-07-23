@@ -3,6 +3,7 @@ _Apresentação/
 
 _Wiki/_Criativa/Vídeos - Guias de instalação/*.mp4
 _Wiki/01 - Downloads/
+_Wiki/06 - PlayWright/
 
 Examples\Cypress\04 - Projeto Simples\node_modules
 Examples\Cypress\05 - Projeto Estruturado\node_modules
@@ -10,9 +11,14 @@ Examples\Cypress\05 - Projeto Estruturado\reports
 Examples\Cypress\05 - Projeto Estruturado\screenshots
 Examples\Cypress\05 - Projeto Estruturado\videos
 
+Examples/Playwright/
+
+Project/_Playwright/
+
 Project\Cypress\cypress\reports
 Project\Cypress\cypress\screenshots
 Project\Cypress\cypress\videos
+
 
 node_modules/**
 reports/
