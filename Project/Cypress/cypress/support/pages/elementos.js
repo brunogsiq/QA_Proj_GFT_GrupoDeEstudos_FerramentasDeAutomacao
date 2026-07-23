@@ -1,13 +1,13 @@
-export class nomeTela01
+export class Tela_Home
 {
     get nomeElemento() {
         return cypress.get('...')
     };
 };
 
-export class nomeTela02
+export class telaLogin
 {
-    get nomeElemento() {
-        return cypress.get('...')
+    get botao_Login() {
+        return cy.get('a[href="/login"]')
     };
 };

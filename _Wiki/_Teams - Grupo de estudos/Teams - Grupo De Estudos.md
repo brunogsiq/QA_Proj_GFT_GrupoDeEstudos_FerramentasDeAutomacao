@@ -4,3 +4,10 @@
 # Grupo de estudos Cypress
 
 - https://teams.microsoft.com/l/chat/19:meeting_MDNjNGVmNTQtMzg1MS00MGE5LTk2NzktNjRhMTI0YjJhYjRm@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D
+
+# Repositório do treinamento
+
+- https://github.com/brunogsiq/QA_Proj_GFT_GrupoDeEstudos_FerramentasDeAutomacao
+
+# Clone:
+    - git clone https://github.com/brunogsiq/QA_Proj_GFT_GrupoDeEstudos_FerramentasDeAutomacao
