@@ -6,9 +6,10 @@
 4. Ctrl + L : Seleciona pares
 5. Ctrl + H : Substitui no arquivo
 6. Ctrl + Shift + H : Substitui no projeto
-7. Ctrl + F : Pesquisar
+7. Ctrl + F : Buscar
 8. Ctrl + Shift + n : abrir nova pasta
 9. Ctrl + ; : Comentar várias linhas
 10. Shift + Alt + setaP/Baixo: Copia linha superior para baixo
 11. Shift + Alt + f: Identação
-12. Ctrl + Alt + I : Chat copilet
+12. Ctrl + Alt + I : Chat copilot
+13. Cmd (Terminal princiapal): Ctrl + Shift + P > Digta Terminal: Select Default Profile > Escolhe: Command Prompt

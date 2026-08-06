@@ -94,6 +94,12 @@ module.exports = defineConfig({
 		dev: "https://www.seuambiente-dev.com",
 		tst: "https://www.seuambiente-tst.com",
 		hml: "https://www.seuambiente-hml.com",
-		prod: "https://www.seuambiente-prod.com"
+		prod: "https://www.seuambiente-prod.com",
+		automationPractice: "https://testautomationpractice.blogspot.com/",
+		devFinance: "https://dev-finance.netlify.app/",
+		starBugs: "https://starbugs.vercel.app/",
+		petLov: "https://petlov.vercel.app/",
+		storeCell: "https://www.demoblaze.com/",
+		swagLabs: "https://www.saucedemo.com/"
 	}
 });

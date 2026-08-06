@@ -12,4 +12,7 @@ var pessoa = {
 
     // Exemplo:
     cy.get('elemento')
-        .type(pessoa.nome);
+        .type(pessoa.nome)
+        type(pessoa.cpf)
+        type(pessoa.email)
+        type(pessoa.telefone);
